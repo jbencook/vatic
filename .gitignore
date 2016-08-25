@@ -1,6 +1,5 @@
 log.txt
 *.pyc
-config.py
 tmp
 backups
 homographies
