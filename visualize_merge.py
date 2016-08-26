@@ -2,7 +2,7 @@ import pickle, argparse, os
 
 from models import Video #need this for Video
 import vision.visualize
-import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont
 
 
 import pdb

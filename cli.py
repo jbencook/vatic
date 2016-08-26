@@ -16,7 +16,7 @@ import turkic.models
 from models import *
 from tracking import *
 import cStringIO
-import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont
 import qa
 import merge
 import dumptools
